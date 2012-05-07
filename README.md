@@ -4,7 +4,7 @@ dump_garmin_connect
 What?
 -----
 
-Script to creates local back-ups of a Garmin Connect users activity files in
+Script that creates local back-ups of a Garmin Connect users activity files in
 GPX, TCX and KLM format.
 
 Does not overwrite existing files by default.
